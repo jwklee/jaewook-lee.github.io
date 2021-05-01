@@ -1,1 +1,20 @@
 ### you put projects here 
+
+---
+title: 'project1'
+date: 2015-08-14
+permalink: /projects/number1/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+Headings are cool?
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
