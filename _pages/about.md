@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jaewook Lee's personal websites"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in political science. I study comparative political economy, focusing on advanced political economies. 
+I am a Ph.D. candidate in political science. I study comparative political economy, focusing on advanced political economies. 
